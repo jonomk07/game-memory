@@ -13,12 +13,6 @@ If you have more ideas or you want to add more options / themes / sounds or what
 <img src="http://www.sromku.com/static/img/pregnancy_memorygame_preview.png"/>
 
 
-### Next
-
-- [ ] 2 player game
-- [x] Add one more theme
-- [ ] Add more sounds
-- [ ] Add Game Services support 
 
 ### License
 
