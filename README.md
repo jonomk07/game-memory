@@ -1,4 +1,4 @@
-# Memory Game
+# Game Memory
 
 Straightforward simple memory game for kids 4+ age  and open source game.
 
